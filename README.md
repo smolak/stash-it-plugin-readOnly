@@ -51,4 +51,6 @@ readOnlyCacheInstance.setItem('key', 'value');
 Methods that will throw are: **setItem**, **addExtra**, **setExtra** and **removeItem**.
 All other will work just fine.
 
+## Demo
 
+[![Edit x5p5op0j4](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/x5p5op0j4?autoresize=1&expanddevtools=1&hidenavigation=1&module=%2Fsrc%2Findex.js&view=editor)
